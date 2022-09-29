@@ -1,0 +1,14 @@
+Threads = 1, minimum = 24, time (sec) =   0.1254
+Threads = 2, minimum = 24, time (sec) =   0.0648
+Threads = 4, minimum = 24, time (sec) =   0.0346
+Threads = 8, minimum = 24, time (sec) =   0.0249
+Threads = 16, minimum = 24, time (sec) =   0.0154
+Threads = 32, minimum = 24, time (sec) =   0.0145
+Threads = 64, minimum = 24, time (sec) =   0.0108
+Threads = 128, minimum = 24, time (sec) =   0.0121
+Threads = 256, minimum = 24, time (sec) =   0.0123
+Threads = 512, minimum = 24, time (sec) =   0.0181
+Threads = 1024, minimum = 24, time (sec) =   0.0324
+Threads = 2048, minimum = 24, time (sec) =   0.0650
+Threads = 4096, minimum = 24, time (sec) =   0.1354
+Threads = 8192, minimum = 24, time (sec) =   0.2738

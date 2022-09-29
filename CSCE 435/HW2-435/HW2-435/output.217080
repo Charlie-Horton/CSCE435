@@ -1,0 +1,14 @@
+Threads = 2, barrier time (sec) =   2.0016	 timer resolution = 1.0000e-09 sec
+Threads = 4, barrier time (sec) =   2.0006	 timer resolution = 1.0000e-09 sec
+Threads = 8, barrier time (sec) =   2.0054	 timer resolution = 1.0000e-09 sec
+Threads = 16, barrier time (sec) =   2.0008	 timer resolution = 1.0000e-09 sec
+Threads = 32, barrier time (sec) =   2.0030	 timer resolution = 1.0000e-09 sec
+Threads = 64, barrier time (sec) =   2.0035	 timer resolution = 1.0000e-09 sec
+Threads = 128, barrier time (sec) =   2.0078	 timer resolution = 1.0000e-09 sec
+Threads = 256, barrier time (sec) =   2.0103	 timer resolution = 1.0000e-09 sec
+Threads = 512, barrier time (sec) =   2.0214	 timer resolution = 1.0000e-09 sec
+Threads = 1024, barrier time (sec) =   2.0380	 timer resolution = 1.0000e-09 sec
+Threads = 2048, barrier time (sec) =   2.0711	 timer resolution = 1.0000e-09 sec
+Threads = 4096, barrier time (sec) =   2.1390	 timer resolution = 1.0000e-09 sec
+Threads = 8192, barrier time (sec) =   2.2708	 timer resolution = 1.0000e-09 sec
+Threads = 16384, barrier time (sec) =   2.5703	 timer resolution = 1.0000e-09 sec
